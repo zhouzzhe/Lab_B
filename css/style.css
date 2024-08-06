@@ -5,10 +5,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", Arial, Helvetica, sans-serif;
+    font-family: "Raleway", Arial, Helvetica, sans-serif
 }
 
 .myLink {
+<<<<<<< HEAD
   display: none;
 }
 #tyModal {
@@ -44,3 +45,7 @@ h6 {
   color: #000;
   cursor: pointer;
 }
+=======
+    display: none
+}
+>>>>>>> parent of 2371197 (好康報報)
